@@ -1,5 +1,5 @@
 {
-  "name": "spidergap",
+  "name": "clonejs",
   "version": "1.0.0",
   "description": "JavaScript object deep cloning and object deep comparing library",
   "main": "./lib/deep-clone-util.js",
