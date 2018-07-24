@@ -21,7 +21,7 @@ var obj = {
 var clone = util.deepClone(obj)
 ```
 
-If you wish to do a recursive compare of two different objects you can call deepEqual:
+If you wish to do a recursive comparison of two different objects you can call deepEqual:
 
 ```javascript
 const util = require('clone');
