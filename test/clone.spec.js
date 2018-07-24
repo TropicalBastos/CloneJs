@@ -1,6 +1,6 @@
 require('mocha');
 const assert = require('assert');
-const util = require('../lib/deep-clone-util');
+const util = require('../lib/clone');
 
 /**
  * Tests for DeepCloneUtil library
