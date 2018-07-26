@@ -1,6 +1,6 @@
 {
   "name": "@tropicalbastos/clone-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript object deep cloning and object deep comparing library",
   "main": "index.js",
   "dependencies": {},
