@@ -2,7 +2,7 @@
   "name": "@tropicalbastos/clone-js",
   "version": "1.0.0",
   "description": "JavaScript object deep cloning and object deep comparing library",
-  "main": "./lib/deep-clone-util.js",
+  "main": "index.js",
   "dependencies": {},
   "devDependencies": {
     "mocha": "^5.2.0"
